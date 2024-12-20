@@ -1,2 +1,6 @@
 welcome to jammikunta
+<<<<<<< HEAD
 kjnlsakhlk
+=======
+all the best
+>>>>>>> abdcbf1d4c0b06ef6e564c794f59fa814fb2900c
